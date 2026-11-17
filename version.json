@@ -1,11 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.0",
+  "versionCode": 12,
+  "versionName": "1.9.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.8.0\n• App 内更新默认切换至国内 Gitee（wanoujj/lumiiris-releases），不可达时自动回退 GitHub 双源互备\n• 新增 Gitee Releases / raw 清单原生解析，并支持 123 云盘等网盘外链自动跳转浏览器下载\n• 包含 v1.7.0 可爱二次元风玻璃瞳图标、底部防切优化及多款设计分块+颜色交替功能",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.8.0/LumiIris-v1.8.0.apk",
-  "sha256": "d9d3573216fdb7baef6ffe566e51c9c2d08068708a25b00bd4c1340a64602b0e",
-  "fileSizeBytes": 77129043,
-  "publishedAt": "2026-11-17T15:15:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.9.0\n• 多次导入每次必弹尺寸选择，自动按实际图案/圆点上下高度实时测距与等比校准\n• 首页新增「统一改大小」一键覆盖全部眼珠，内置 BJD 眼柄常用尺寸（3~15mm 间隔 1mm）\n• 新增 RGB / CMYK 印刷校色模式（预览与导出同步所见即所得）\n• 导出默认升级 600 DPI 与多级渐进重采样大幅提升 PNG 清晰度；修复蓝色按钮文字对比度与预览跨界遮挡\n• 支持自定义文字/图片Logo水印及密度/大小/角度调节；导出支持自选本地路径或一键存入相册下载",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.0/LumiIris-v1.9.0.apk",
+  "sha256": "3190e1535a89d4d5eb5c45bd23be28c35bb166a45555e09b4962e8f89fe73b72",
+  "fileSizeBytes": 77276499,
+  "publishedAt": "2026-11-17T16:46:00+08:00"
 }
