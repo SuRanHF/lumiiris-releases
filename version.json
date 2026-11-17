@@ -1,11 +1,11 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
+  "versionCode": 11,
+  "versionName": "1.8.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.7.0\n• 全新更换可爱柔和的手绘二次元风玻璃瞳桌面图标（非写实风）\n• 彻底修复导入下方轻微切边：分析代理升级为 800px->384px 逐块极大值池化（绝不跳过底部最细眼柄像素），边界吸附按边缘距离吸纳较长眼柄\n• 按眼型设计优先严格分块：多色 PSD 中第 1 对眼与第 2 对眼等不同款式永远独立成区（8mm+ 分隔走廊），即使在「颜色交替」模式下也绝不把两种不同的眼睛混排在一起",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.7.0/LumiIris-v1.7.0.apk",
-  "sha256": "2415fd9211267d097a49dfe6b140389ba380341796a396c4332001ce7ed88eb9",
+  "changelog": "璃瞳 LumiIris v1.8.0\n• App 内更新默认切换至国内 Gitee（wanoujj/lumiiris-releases），不可达时自动回退 GitHub 双源互备\n• 新增 Gitee Releases / raw 清单原生解析，并支持 123 云盘等网盘外链自动跳转浏览器下载\n• 包含 v1.7.0 可爱二次元风玻璃瞳图标、底部防切优化及多款设计分块+颜色交替功能",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.8.0/LumiIris-v1.8.0.apk",
+  "sha256": "d9d3573216fdb7baef6ffe566e51c9c2d08068708a25b00bd4c1340a64602b0e",
   "fileSizeBytes": 77129043,
-  "publishedAt": "2026-11-17T14:35:00+08:00"
+  "publishedAt": "2026-11-17T15:15:00+08:00"
 }
