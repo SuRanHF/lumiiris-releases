@@ -1,11 +1,11 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
+  "versionCode": 9,
+  "versionName": "1.7.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.6.0\n• 彻底取消导入弹窗、工作台列表等全部圆形裁剪遮罩（统一改为圆角完整轮廓展示），同时优化眼柄连通防误切算法与透明精剪，完整保留所有非圆形眼柄与细节\n• 多色 / 多款导入新增「颜色交替（红蓝绿 / 黑白紫）」与「同色分块（红红红 / 蓝蓝蓝）」一键切换，可在 PSD 多色导入与工作台右侧面板实时切换\n• 界面精简面向分发：更新地址输入、连通测试与 Push 通道调试统一收进隐藏「创作者开发者模式」（设置页连续轻触版本号 5 次即可开启）",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.6.0/LumiIris-v1.6.0.apk",
-  "sha256": "395d4ad727814001551cb44eacd03708f9dccebad275080787c3892cb80a9175",
-  "fileSizeBytes": 77580379,
-  "publishedAt": "2026-11-17T14:12:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.7.0\n• 全新更换可爱柔和的手绘二次元风玻璃瞳桌面图标（非写实风）\n• 彻底修复导入下方轻微切边：分析代理升级为 800px->384px 逐块极大值池化（绝不跳过底部最细眼柄像素），边界吸附按边缘距离吸纳较长眼柄\n• 按眼型设计优先严格分块：多色 PSD 中第 1 对眼与第 2 对眼等不同款式永远独立成区（8mm+ 分隔走廊），即使在「颜色交替」模式下也绝不把两种不同的眼睛混排在一起",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.7.0/LumiIris-v1.7.0.apk",
+  "sha256": "2415fd9211267d097a49dfe6b140389ba380341796a396c4332001ce7ed88eb9",
+  "fileSizeBytes": 77129043,
+  "publishedAt": "2026-11-17T14:35:00+08:00"
 }
