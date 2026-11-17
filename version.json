@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.0",
+  "versionCode": 13,
+  "versionName": "1.9.1",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.9.0\n• 多次导入每次必弹尺寸选择，自动按实际图案/圆点上下高度实时测距与等比校准\n• 首页新增「统一改大小」一键覆盖全部眼珠，内置 BJD 眼柄常用尺寸（3~15mm 间隔 1mm）\n• 新增 RGB / CMYK 印刷校色模式（预览与导出同步所见即所得）\n• 导出默认升级 600 DPI 与多级渐进重采样大幅提升 PNG 清晰度；修复蓝色按钮文字对比度与预览跨界遮挡\n• 支持自定义文字/图片Logo水印及密度/大小/角度调节；导出支持自选本地路径或一键存入相册下载",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.0/LumiIris-v1.9.0.apk",
-  "sha256": "3190e1535a89d4d5eb5c45bd23be28c35bb166a45555e09b4962e8f89fe73b72",
-  "fileSizeBytes": 77276499,
-  "publishedAt": "2026-11-17T16:46:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.9.1\n• 默认导出清晰度升级至 900 DPI（最高可选 1200 DPI 极限印刷级），色卡默认 3600px（最高 4800px）\n• 引入预乘透明保护的 Catmull-Rom 三次插值 + 边缘自适应防晕染锐化，放大细节接近矢量级锐利\n• 导入解码与预览画布缓存同步扩容（4096px 原图 / 3200px PSD / 1280px 预览放大 6x），导出弹窗直接支持 600/900/1200 DPI 一键切换",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.1/LumiIris-v1.9.1.apk",
+  "sha256": "327de5cf04eac85b4467abd0b4701b91c01b112519db35ecf302f42fe17bbd1a",
+  "fileSizeBytes": 77292883,
+  "publishedAt": "2026-11-17T17:04:00+08:00"
 }
