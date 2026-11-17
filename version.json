@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "1.9.1",
+  "versionCode": 14,
+  "versionName": "1.9.2",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.9.1\n• 默认导出清晰度升级至 900 DPI（最高可选 1200 DPI 极限印刷级），色卡默认 3600px（最高 4800px）\n• 引入预乘透明保护的 Catmull-Rom 三次插值 + 边缘自适应防晕染锐化，放大细节接近矢量级锐利\n• 导入解码与预览画布缓存同步扩容（4096px 原图 / 3200px PSD / 1280px 预览放大 6x），导出弹窗直接支持 600/900/1200 DPI 一键切换",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.1/LumiIris-v1.9.1.apk",
-  "sha256": "327de5cf04eac85b4467abd0b4701b91c01b112519db35ecf302f42fe17bbd1a",
-  "fileSizeBytes": 77292883,
-  "publishedAt": "2026-11-17T17:04:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.9.2\n• 修复上下左右页边距不对称问题：取消底部强制 8.5~10mm 偏长锁定，改为四周完全等距安全边距\n• 默认页边距调整为 0.8cm（8mm），默认眼柄间距（横/纵/成对内间距）调整为 0.5cm（5mm）\n• 全部滑轨右侧数值角标支持点击「✎」直接键盘填写数值，精准调节无需反复滑动，并自动按 mm/cm/inch/px/% 换算",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.2/LumiIris-v1.9.2.apk",
+  "sha256": "031abc9b8845454e246c9533e2004d7962ee3195e2ec3416d3d801a5439c65ab",
+  "fileSizeBytes": 77309267,
+  "publishedAt": "2026-11-17T17:15:00+08:00"
 }
