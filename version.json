@@ -1,11 +1,11 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
+  "versionCode": 8,
+  "versionName": "1.6.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.5.0\n• 修复导入素材默认强制圆形裁切导致眼柄与边角被切掉的问题，默认完整保留非圆形眼柄与所有原图轮廓（居中无拉伸放入 1:1 透明画布）\n• 优化 PSD 背景处理：分层 PSD 默认以图层规则区分背景，不再擅自腐蚀边缘浅色眼柄或角落\n• 多对/多色排版新增明显「区块走廊」间隔：列分块或行分块之间留出明显空隙走廊（7~9mm+），两对及以上眼珠一秒看清区块归属",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.5.0/LumiIris-v1.5.0.apk",
-  "sha256": "83f307c2e779e5389b510cace85b428fcbe1f27c8d02e88739df7e76ce4f64e8",
-  "fileSizeBytes": 77547611,
-  "publishedAt": "2026-11-17T12:50:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.6.0\n• 彻底取消导入弹窗、工作台列表等全部圆形裁剪遮罩（统一改为圆角完整轮廓展示），同时优化眼柄连通防误切算法与透明精剪，完整保留所有非圆形眼柄与细节\n• 多色 / 多款导入新增「颜色交替（红蓝绿 / 黑白紫）」与「同色分块（红红红 / 蓝蓝蓝）」一键切换，可在 PSD 多色导入与工作台右侧面板实时切换\n• 界面精简面向分发：更新地址输入、连通测试与 Push 通道调试统一收进隐藏「创作者开发者模式」（设置页连续轻触版本号 5 次即可开启）",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.6.0/LumiIris-v1.6.0.apk",
+  "sha256": "395d4ad727814001551cb44eacd03708f9dccebad275080787c3892cb80a9175",
+  "fileSizeBytes": 77580379,
+  "publishedAt": "2026-11-17T14:12:00+08:00"
 }
