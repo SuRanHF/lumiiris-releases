@@ -1,11 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
+  "versionCode": 7,
+  "versionName": "1.5.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.4.1\n• 新增 4 种 PSD 导入模式透明抠底背景开关\n• D·多色自动识别支持「实拍缩略图 / 色卡列表」自由切换，支持先选第 1 款配色中的对眼并批量套用全部分色\n• 标准网格与错位蜂窝支持整数列/整行分块排布并对称铺满整页\n• 首页新增一键清空及本机工程实时自动保存，重启不丢参数",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.4.1/LumiIris-v1.4.1.apk",
-  "sha256": "68dfd5f7b7315ec768604a6b7125fcadf7fb219df58007abdb226030c59072da",
+  "changelog": "璃瞳 LumiIris v1.5.0\n• 修复导入素材默认强制圆形裁切导致眼柄与边角被切掉的问题，默认完整保留非圆形眼柄与所有原图轮廓（居中无拉伸放入 1:1 透明画布）\n• 优化 PSD 背景处理：分层 PSD 默认以图层规则区分背景，不再擅自腐蚀边缘浅色眼柄或角落\n• 多对/多色排版新增明显「区块走廊」间隔：列分块或行分块之间留出明显空隙走廊（7~9mm+），两对及以上眼珠一秒看清区块归属",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.5.0/LumiIris-v1.5.0.apk",
+  "sha256": "83f307c2e779e5389b510cace85b428fcbe1f27c8d02e88739df7e76ce4f64e8",
   "fileSizeBytes": 77547611,
-  "publishedAt": "2026-11-17T12:28:00+08:00"
+  "publishedAt": "2026-11-17T12:50:00+08:00"
 }
