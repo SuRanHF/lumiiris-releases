@@ -3,11 +3,11 @@
   "versionName": "1.9.3",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.9.3（国内天翼云盘访问码：4j5a）\n• 修复更新弹窗点击「立即下载更新」因报错被吞导致直接闪退回原状态的问题，弹窗内直接显示错误提示与浏览器兜底入口\n• 新增天翼云盘（cloud.189.cn）外链识别与访问码自动复制，支持双源回退下载与已校验本地安装包一键直装",
+  "changelog": "璃瞳 LumiIris v1.9.3（国内天翼云盘访问码：8y8e）\n• 修复更新弹窗点击「立即下载更新」因报错被吞导致直接闪退回原状态的问题，弹窗内直接显示错误提示与浏览器兜底入口\n• 新增天翼云盘（cloud.189.cn）外链识别与访问码自动复制，支持双源回退下载与已校验本地安装包一键直装",
   "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.3/LumiIris-v1.9.3.apk",
-  "externalPageUrl": "https://cloud.189.cn/web/share?code=FVbENjeAbq22",
-  "accessCode": "4j5a",
+  "externalPageUrl": "https://cloud.189.cn/web/share?code=yyuMzu2euaIr",
+  "accessCode": "8y8e",
   "sha256": "8f7ee3822539309d94287ac927767164c8a90fa714249e286dbb4229c7482cab",
   "fileSizeBytes": 77325651,
-  "publishedAt": "2026-11-17T17:38:00+08:00"
+  "publishedAt": "2026-11-17T17:42:00+08:00"
 }
