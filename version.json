@@ -1,0 +1,11 @@
+{
+  "versionCode": 6,
+  "versionName": "1.4.1",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "changelog": "璃瞳 LumiIris v1.4.1\n• 新增 4 种 PSD 导入模式透明抠底背景开关\n• D·多色自动识别支持「实拍缩略图 / 色卡列表」自由切换，支持先选第 1 款配色中的对眼并批量套用全部分色\n• 标准网格与错位蜂窝支持整数列/整行分块排布并对称铺满整页\n• 首页新增一键清空及本机工程实时自动保存，重启不丢参数",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.4.1/LumiIris-v1.4.1.apk",
+  "sha256": "68dfd5f7b7315ec768604a6b7125fcadf7fb219df58007abdb226030c59072da",
+  "fileSizeBytes": 77547611,
+  "publishedAt": "2026-11-17T12:28:00+08:00"
+}

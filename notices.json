@@ -1,0 +1,12 @@
+{
+  "notices": [
+    {
+      "id": "welcome_141",
+      "title": "欢迎使用 璃瞳 · LumiIris v1.4.1",
+      "body": "已接入 GitHub 闭源发布仓自动检查更新，并支持 PSD 多色实拍缩略图与整数分块铺满整页。",
+      "priority": "NORMAL",
+      "showAsModalOnStartup": false,
+      "publishedAt": "2026-11-17T12:28:00+08:00"
+    }
+  ]
+}
