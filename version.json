@@ -1,11 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "1.9.2",
+  "versionCode": 15,
+  "versionName": "1.9.3",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.9.2\n• 修复上下左右页边距不对称问题：取消底部强制 8.5~10mm 偏长锁定，改为四周完全等距安全边距\n• 默认页边距调整为 0.8cm（8mm），默认眼柄间距（横/纵/成对内间距）调整为 0.5cm（5mm）\n• 全部滑轨右侧数值角标支持点击「✎」直接键盘填写数值，精准调节无需反复滑动，并自动按 mm/cm/inch/px/% 换算",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.2/LumiIris-v1.9.2.apk",
-  "sha256": "031abc9b8845454e246c9533e2004d7962ee3195e2ec3416d3d801a5439c65ab",
-  "fileSizeBytes": 77309267,
-  "publishedAt": "2026-11-17T17:15:00+08:00"
+  "changelog": "璃瞳 LumiIris v1.9.3（国内天翼云盘访问码：4j5a）\n• 修复更新弹窗点击「立即下载更新」因报错被吞导致直接闪退回原状态的问题，弹窗内直接显示错误提示与浏览器兜底入口\n• 新增天翼云盘（cloud.189.cn）外链识别与访问码自动复制，支持双源回退下载与已校验本地安装包一键直装",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.3/LumiIris-v1.9.3.apk",
+  "externalPageUrl": "https://cloud.189.cn/web/share?code=FVbENjeAbq22",
+  "accessCode": "4j5a",
+  "sha256": "8f7ee3822539309d94287ac927767164c8a90fa714249e286dbb4229c7482cab",
+  "fileSizeBytes": 77325651,
+  "publishedAt": "2026-11-17T17:38:00+08:00"
 }
