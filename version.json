@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "1.9.4",
+  "versionCode": 17,
+  "versionName": "1.9.5",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v1.9.4（国内天翼云盘访问码：9tv6）\n• 增强多对多色 PNG 眼珠整图自动切分：支持大量不同配色透明底/白底眼珠整图识别，多颗阴影串联也可递归切分，不再误当成单张大图导入\n• 智能去重（同款同色仅留 1 对）：完全相同的重复对眼自动折叠去重，保留浅冰蓝/薄荷绿等柔和色差款式，弹窗支持滚动预览勾选\n• 确认后沿用原成对排版逻辑统一选择尺寸并铺满整页，多张大图依次进入预览确认",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.4/LumiIris-v1.9.4.apk",
+  "changelog": "璃瞳 LumiIris v1.9.5（国内天翼云盘访问码：9tv6）\n• 彻底重做密集多对眼珠整图识别管线：解除 800→512px 双重压图与外扩膨胀粘连，支持高密度数百对错位拼图整图精准切分\n• 新增动态尺度过滤、细分割线剔除与基于水平基线链动态规划（DP）的错位防串行成对匹配，防止跨块跨行错配\n• 预览弹窗升级为懒加载滚动列表 + 并发裁切与批量一次性排版，上百对瞳片导入与滑动依然丝滑流畅",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v1.9.5/LumiIris-v1.9.5.apk",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
-  "sha256": "df98f1245fb1c0d091acf7dfc627af14881fb5a94dc0307d9cc310d5aee35b3e",
-  "fileSizeBytes": 77342035,
-  "publishedAt": "2026-11-18T21:33:00+08:00"
+  "sha256": "1f9ee553cb783ab30ee94b23ac927cc4e1c1deeec3c1f20667370f2c22d4013a",
+  "fileSizeBytes": 77374803,
+  "publishedAt": "2026-11-18T21:58:50+08:00"
 }
