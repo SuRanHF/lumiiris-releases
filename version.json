@@ -3,10 +3,12 @@
   "versionName": "2.0.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v2.0.0 正式版\n• 2.5D 试戴室正式上线：支持底座/眼柄比例实时校准（虹膜与外径联动、45° 截面预览）与 AI 入头试戴（自动裁剪正脸、像素级精细眼眶抠图、眼珠嵌入眼眶与手势微调、高光/无高光切换）\n• 排版预设展示升级：标签改为「眼柄上下高度(眼底大小) 注意：仅供参考。」，按 3~18mm 递增排列并标注对应眼底大小（5mm(8mm) ~ 15mm(22mm) 等），未映射尺寸保留原 mm，点击按眼柄高度生效\n• 尺寸上限扩展至 100mm：眼顶大小与 2.5D 试戴「眼珠外径」上限均支持 3~100mm，快捷预设保持 3~18mm 常用规格",
+  "changelog": "璃瞳 LumiIris v2.0.0 正式版（国内天翼云盘访问码：9tv6）\n• 2.5D 试戴室正式上线：支持底座/眼柄比例实时校准（虹膜与外径联动、45° 截面预览）与 AI 入头试戴（自动裁剪正脸、像素级精细眼眶抠图、眼珠嵌入眼眶与手势微调、高光/无高光切换；未传娃头时展示干净空白占位示意图）\n• 排版预设展示升级：标签改为「眼柄上下高度(眼底大小) 注意：仅供参考。」，按 3~18mm 递增排列并标注对应眼底大小（5mm(8mm) ~ 15mm(22mm) 等），未映射尺寸保留原 mm，点击按眼柄高度生效\n• 尺寸上限扩展至 100mm：眼顶大小与 2.5D 试戴「眼珠外径」上限均支持 3~100mm，快捷预设保持常用刻度\n• 开发者模式升级：新增「正式版更新」「测试版(测试)」一键切换，正式版与测试版均支持 Gitee → GitHub → 天翼云盘 自动回退",
   "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.0/LumiIris-v2.0.0.apk",
   "fallbackApkUrl": "https://ghfast.top/https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.0/LumiIris-v2.0.0.apk",
-  "sha256": "ddb20afb4d0207443901cfa37c81ec401dfb829807488daef207ca8d8b53d2fc",
-  "fileSizeBytes": 119198608,
-  "publishedAt": "2026-11-20T14:58:30+08:00"
+  "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
+  "accessCode": "9tv6",
+  "sha256": "89d5b798eb56a33744e2438e230ce15c12eadf18820f08dc62de2a994321d9cc",
+  "fileSizeBytes": 120698223,
+  "publishedAt": "2026-11-20T15:15:30+08:00"
 }
