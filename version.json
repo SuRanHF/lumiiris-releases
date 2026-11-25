@@ -1,14 +1,14 @@
 {
-  "versionCode": 26,
-  "versionName": "2.0.0",
+  "versionCode": 29,
+  "versionName": "2.0.9",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v2.0.0 正式版（国内天翼云盘访问码：9tv6）\n• 2.5D 试戴室正式上线：支持底座/眼柄比例实时校准（虹膜与外径联动、45° 截面预览）与 AI 入头试戴（自动裁剪正脸、像素级精细眼眶抠图、眼珠嵌入眼眶与手势微调、高光/无高光切换；未传娃头时展示干净空白占位示意图）\n• 排版预设展示升级：标签改为「眼柄上下高度(眼底大小) 注意：仅供参考。」，按 3~18mm 递增排列并标注对应眼底大小（5mm(8mm) ~ 15mm(22mm) 等），未映射尺寸保留原 mm，点击按眼柄高度生效\n• 尺寸上限扩展至 100mm：眼顶大小与 2.5D 试戴「眼珠外径」上限均支持 3~100mm，快捷预设保持常用刻度\n• 开发者模式升级：新增「正式版更新」「测试版(测试)」一键切换，正式版与测试版均支持 Gitee → GitHub → 天翼云盘 自动回退",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.0/LumiIris-v2.0.0.apk",
-  "fallbackApkUrl": "https://ghfast.top/https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.0/LumiIris-v2.0.0.apk",
+  "changelog": "璃瞳 LumiIris v2.0.9 正式版（国内天翼云盘访问码：9tv6）\n相比上一正式版 v2.0.0，本次正式版汇总了近几轮测试的全部修复与体验升级：\n• 【PSD 原图色彩完全对齐电脑 PS，不再偏色发灰】无论原图是在 Mac/iPad 广色域制作，还是印刷 CMYK、16位/32位高清格式，导入手机都会自动校准颜色；彻底消除了透明边缘发灰发粉的毛边，避免多余“选区/专色”通道误把眼珠弄透明；几乎完整还原电脑 PS 里的各种图层混合模式、填充透明度、剪贴蒙版、图层组穿透、羽化蒙版、曲线/色相/色彩平衡/可选颜色/渐变/纯色等调色层，以及颜色渐变叠加、阴影、发光、描边等图层效果（一键合并、自选图层、自动拆对、批量改色全部生效）\n• 【修好导出闪退、卡死与“导不出来”的问题】重点修复多页打印 PDF 与无线打印容易崩溃或出空白文件的问题；大幅优化导出高清晰度打印 PNG、展示色卡图和 2.5D 试戴效果图的内存占用，不再动不动就闪退；部分手机在文件管理器里选完保存位置返回却存不上的问题已修复，分享文件也不再闪退\n• 【导出失败不再只报错“null”，新增降清提醒】导出卡住时会直接用大白话说明真正原因（如内存不足、存储空间不够、文件找不到）并给出建议；当超高清晰度（如 1200 DPI 打印大图）超出手机承受范围时，会自动降档保底导出，并清清楚楚提示原计划与实际降到了多少 DPI\n• 【新增纯文本错误日志导出（绝不含任何软件图片）】如软件曾意外闪退，下次打开会自动弹窗说明异常原因；同时在导出失败弹窗与「风格与推送」设置页中均支持一键分享、存下载或复制纯文本运行日志（.txt），只记文字版出错步骤与设备状态，绝不包含软件里的任何画布、眼珠或娃头图片",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.9/LumiIris-v2.0.9.apk",
+  "fallbackApkUrl": "https://ghfast.top/https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.9/LumiIris-v2.0.9.apk",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
-  "sha256": "89d5b798eb56a33744e2438e230ce15c12eadf18820f08dc62de2a994321d9cc",
-  "fileSizeBytes": 120698223,
-  "publishedAt": "2026-11-20T15:15:30+08:00"
+  "sha256": "c431e7229487bd5c6c0576be9d40223cb290adff684139c1478f297ce961711f",
+  "fileSizeBytes": 119624636,
+  "publishedAt": "2026-11-25T19:18:00+08:00"
 }
