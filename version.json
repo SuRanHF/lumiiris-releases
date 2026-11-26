@@ -1,14 +1,14 @@
 {
-  "versionCode": 29,
-  "versionName": "2.0.9",
+  "versionCode": 30,
+  "versionName": "2.0.10",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "changelog": "璃瞳 LumiIris v2.0.9 正式版（国内天翼云盘访问码：9tv6）\n相比上一正式版 v2.0.0，本次正式版汇总了近几轮测试的全部修复与体验升级：\n• 【PSD 原图色彩完全对齐电脑 PS，不再偏色发灰】无论原图是在 Mac/iPad 广色域制作，还是印刷 CMYK、16位/32位高清格式，导入手机都会自动校准颜色；彻底消除了透明边缘发灰发粉的毛边，避免多余“选区/专色”通道误把眼珠弄透明；几乎完整还原电脑 PS 里的各种图层混合模式、填充透明度、剪贴蒙版、图层组穿透、羽化蒙版、曲线/色相/色彩平衡/可选颜色/渐变/纯色等调色层，以及颜色渐变叠加、阴影、发光、描边等图层效果（一键合并、自选图层、自动拆对、批量改色全部生效）\n• 【修好导出闪退、卡死与“导不出来”的问题】重点修复多页打印 PDF 与无线打印容易崩溃或出空白文件的问题；大幅优化导出高清晰度打印 PNG、展示色卡图和 2.5D 试戴效果图的内存占用，不再动不动就闪退；部分手机在文件管理器里选完保存位置返回却存不上的问题已修复，分享文件也不再闪退\n• 【导出失败不再只报错“null”，新增降清提醒】导出卡住时会直接用大白话说明真正原因（如内存不足、存储空间不够、文件找不到）并给出建议；当超高清晰度（如 1200 DPI 打印大图）超出手机承受范围时，会自动降档保底导出，并清清楚楚提示原计划与实际降到了多少 DPI\n• 【新增纯文本错误日志导出（绝不含任何软件图片）】如软件曾意外闪退，下次打开会自动弹窗说明异常原因；同时在导出失败弹窗与「风格与推送」设置页中均支持一键分享、存下载或复制纯文本运行日志（.txt），只记文字版出错步骤与设备状态，绝不包含软件里的任何画布、眼珠或娃头图片",
-  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.9/LumiIris-v2.0.9.apk",
-  "fallbackApkUrl": "https://ghfast.top/https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.9/LumiIris-v2.0.9.apk",
+  "changelog": "璃瞳 LumiIris v2.0.10 正式版（国内天翼云盘访问码：9tv6）\n本次正式版汇总了近期全部稳定性修复与画质升级（含 v2.0.7 ~ v2.0.10 全部改进）：\n• 【彻底修好“小图放大导出时 PNG 和 PDF 双双失败”的问题】如果排版的眼珠原图里混有偏小的图片，导出高清版放大加锐化时不再卡死失败（全面解决老版本报错 null、Current page not finished! 与无法写像素的问题）\n• 【新增 PDF 内存分档保护，大幅减少导出闪退】多页、上百颗多花色眼珠一起导出时，软件会自动省着用内存；即使手机可用内存紧张，导出 PNG 或 PDF 都会自动分档降清保底出图（并清楚提示降到了多少 DPI，PDF 物理毫米大小丝毫不改）\n• 【修好选完保存文件夹存不上、分享闪退与空白打印】改善各类手机系统文件管理器兼容性，修好部分机型选完导出位置切回来没保存上的问题，也修好无线打印与多页 PDF 出空白文件的问题\n• 【PSD 原图导入终于和电脑 PS 长得一样】支持 Mac/iPad 广色域、印刷 CMYK 及 16/32 位高清图自动校色，去掉透明底周围泛灰泛粉毛边，避免多余“选区/专色”通道误伤透明区；电脑 PS 里的混合模式、填充透明度、剪贴蒙版、组穿透、羽化蒙版、曲线/色相/色彩平衡/可选颜色/渐变等调色层，以及颜色渐变叠加/阴影/发光/描边全部完整生效\n• 【报错能看懂人话 + 纯文本错误日志导出】导出卡住直接提示具体原因和解决办法；如曾意外闪退，下次打开会主动说明原因，并可在弹窗或「风格与推送」页一键导出全文字错误日志（.txt），绝不包含软件里的任何画布或眼珠图片",
+  "apkUrl": "https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.10/LumiIris-v2.0.10.apk",
+  "fallbackApkUrl": "https://ghfast.top/https://github.com/SuRanHF/lumiiris-releases/releases/download/v2.0.10/LumiIris-v2.0.10.apk",
   "externalPageUrl": "https://cloud.189.cn/web/share?code=NRfquinUjm6r",
   "accessCode": "9tv6",
-  "sha256": "c431e7229487bd5c6c0576be9d40223cb290adff684139c1478f297ce961711f",
+  "sha256": "7efe2fce247a66add6da1ae98aed1cd35368e12ee07875a079992c2034263d60",
   "fileSizeBytes": 119624636,
-  "publishedAt": "2026-11-25T19:18:00+08:00"
+  "publishedAt": "2026-11-26T10:06:00+08:00"
 }
